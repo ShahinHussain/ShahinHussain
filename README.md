@@ -22,7 +22,8 @@ MSc Mathematics graduate with two years of data engineering experience, moving i
 - **Player behaviour prediction:** sequential models for League of Legends. See [`lol-temporal-prediction-model`](https://github.com/ShahinHussain/lol-temporal-prediction-model) (v2 coming soon).
 
 ### 🛠️ Toolbox
-Python · C++ · SQL · PySpark · Linux
+Python · NumPy · pandas · scikit-learn · PyTorch
+SQL · PySpark · C++ · Linux
 
 ### 💬 Ask me about
 ML/DL theory · Bayesian statistics · topological data analysis · mechanistic interpretability
