@@ -1,18 +1,3 @@
-<!--
-**ShahinHussain/ShahinHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi, I'm Shahin 👋
 
 MSc Mathematics graduate with two years of data engineering experience, moving into data science and quantitative research. Based in London.
@@ -26,7 +11,7 @@ Python · NumPy · pandas · scikit-learn · PyTorch\
 SQL · PySpark · C++ · Linux
 
 ### 💬 Ask me about
-ML/DL theory · Bayesian statistics · topological data analysis · mechanistic interpretability
+ML/DL theory · Bayesian Statistics · Topological Data Analysis · Mechanistic Interpretability
 
 ### 📫 Get in touch
 [LinkedIn](https://linkedin.com/in/shahin-hussain-838376208/) · shahin.hussain@live.co.uk
